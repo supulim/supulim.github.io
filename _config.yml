@@ -16,11 +16,11 @@ theme:
 permalink: /:categories/:title
 
 # social
-author: Teddy Lee
-disqus_shortname:   teddylee777
-google_analytics:   UA-111508093-1
+author: Supulim
+disqus_shortname:   Supulim
+#google_analytics:   UA-111508093-1
 
-repository: teddylee777/teddylee777.github.io
+repository: supulim/supulim.github.io
 
 highlighter: rouge
 markdown:    kramdown
